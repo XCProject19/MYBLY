@@ -2,17 +2,21 @@
 "home_genre" : [
 
 		  {
-			  "title" : "မြန်မာပေါကားများ",
-			  "gen" : "all"
+			  "title" : "Latest Movies",
+			  "genre" : "all"
 		  },
 		  {
-			  "title" : "ကြမ်းမယ် ရမ်းမယ်",
-			  "gen" : "action"
+			  "title" : "Action",
+			  "genre" : "action"
 		  },
 		  {
-			  "title" : "ရယ်ကြမောကြပေါလောက",
-			  "gen" : "comedy"
-		  }
+			  "title" : "Drama",
+			  "genre" : "drama"
+		  },
+	{
+		"title" : "Thriller",
+		"genre" : "Thriller"
+	}
 		  ],
 	 
 	 "slider" : [
