@@ -18,16 +18,7 @@
 		"title" : "Thriller",
 		"genre" : "Thriller"
 	}
-	,
-	 {
-			  "title" : "Sci-Fi",
-			  "genre" : "Sci-Fi"
-		  }
-		  ,
-	 {
-			  "title" : "Crime",
-			  "genre" : "crime"
-		  }
+	
 		  ],
 	 
 	 "slider" : [
