@@ -56,7 +56,18 @@
 "length" : "1hr 43min",
 "qual" : "WEB-DL 720p",
 "size" : "SD(146 MB)",
-"video" : "https://drive.google.com/file/d/1sQnTgKT0P9uuqJT1iphnPcIs3MgoCjvp/view",
+"trailer" : "https://www.youtube.com/watch?v=3jzSoitN_oM",
+            "video" : [
+		    {"Test Youtube" : "https://www.youtube.com/watch?v=3jzSoitN_oM"},
+		{"google" : "https://www.youtube.com/"},
+	        {"mediafie" : "https://www.youtube.com/"},
+	    	{"google" : "https://www.youtube.com/"},
+         	{"mediafie" : "https://www.youtube.com/"},
+	        {"google" : "https://www.youtube.com/"},
+		{"mediafie" : "https://www.youtube.com/"},
+	        {"google" : "https://www.youtube.com/"},
+		{"mediafie" : "https://www.youtube.com/"}
+	    ],
 "desc" : "ဇာတ်လမ်းအကျဉ်း
 -------------------
 ခင်ဗျားအခုလို ကမ္ဘာပေါ်မှာ ဆက်လက်နေထိုင်ခွင့်ရတာဟာ အနောက်ဘက်အိန္ဒိယပြည်က
